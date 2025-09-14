@@ -1,0 +1,8 @@
+Acknowledgement
+
+Per Part 6, I am providing a brief written statement about my process and any tools used.
+I used generative AI tools to understand the assignment requirements and to help structure
+and implement the steps needed to create the required files. Specifically, I used generative
+AI to understand and effectively make the backtest file (strawberry-backtest.tsv) and the
+forecast file (strawberry-forecast.tsv). I reviewed and executed the code myself and accept
+responsibility for the submitted work.
